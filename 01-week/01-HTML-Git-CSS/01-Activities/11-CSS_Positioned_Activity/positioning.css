@@ -1,0 +1,37 @@
+body {
+    padding: 5px 100px;
+}
+
+h1 {
+    font-size: 85px;
+    left: 100px;
+}
+
+.fixed {
+    background: #eee;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding: 50px;
+    margin: 0px 
+}
+
+.relative {
+    background: #eee;
+    height: 200px;
+    position: relative;
+    text-align: center;
+}
+
+.absolute {
+    background: #999;
+    width: 32%;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    left: 1100px;
+    text-align: center
+}
