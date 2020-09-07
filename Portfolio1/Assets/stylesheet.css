@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/48/1d/74/481d7412545523df9093ab7d60a5b7da.jpg);
+}
+
+nav {
+    background: lightyellow;
+    padding: 5px;
+}
+
+.about-me {
+    background: dimgrey;
+    width: 500px;
+    margin: 150px 800px 500px 100px;
+    padding: 20px;
+}
+
+img {
+    max-width: 350px;
+}
+
+footer {
+    background: dimgrey;
+    border-top: 5px solid lightyellow;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+form {
+    background: dimgray;
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 500px;
+    padding: 30px;
+}
+
+img {
+    width: 350px;
+}
+
+.container {
+    background: dimgrey;
+    width: 800px;
+    margin: 150px 800px 500px 100px;
+    padding: 20px;
+}
